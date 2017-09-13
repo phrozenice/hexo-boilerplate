@@ -1,9 +1,9 @@
 # Basic Hexo Boilerplate
 ## Includes
-- Hexo-webpack-renderer-2-advanced -> [https://github.com/jimmyn/hexo-renderer-webpack-2]("Right here")
-- VueJs' vue-loader - Write `.vue` files and have them compiled -> [https://github.com/vuejs/vue-loader]("Found Here")
-- Babel-loader - Transpiles javascript files using Babel and webpack -> [https://github.com/babel/babel-loader]("Found Here")
-- Hexo-browsersync for reloading any changes on save -> [https://github.com/hexojs/hexo-browsersync]("Here")
+- Hexo-webpack-renderer-2-advanced -> [Right here](https://github.com/jimmyn/hexo-renderer-webpack-2)
+- VueJs' vue-loader - Write `.vue` files and have them compiled -> [Found Here](https://github.com/vuejs/vue-loader)
+- Babel-loader - Transpiles javascript files using Babel and webpack -> [Found Here](https://github.com/babel/babel-loader)
+- Hexo-browsersync for reloading any changes on save -> [Here](https://github.com/hexojs/hexo-browsersync)
 
 ## Setup
 
